@@ -1,20 +1,19 @@
 ## 👋 Hello Everyone, Welcome to my profile, Mai Quang Hieu
 
 # About Me
-- 🏫 School: Hanoi University of Science and Technology (2021-Now)
-- 🌱 Major: Smart Embedded System and IoT 4th Year Student
-- 💬 Language: Japanese, English
-- 🎯 Focusing: IoT Solution
-- 🏠 Location: Phuong Liet, Thanh Xuan, Ha Noi
+- 🏫 School: Hanoi University of Science and Technology (2020-2025)
+- 🌱 Major: Control and Automation Engineering
+- 💬 Language: English
+- 🎯 Focusing: Embedded/IoT Developer
+- 🏠 Location: My Dinh, Ha Noi
 - ⚡ Hobbies: Badminton, Travelling, Gaming
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![ThingsBoard](https://img.shields.io/badge/ThingsBoard-Platform-blue?style=flat)](https://thingsboard.io)
 
 
 # 🌐 Socials
