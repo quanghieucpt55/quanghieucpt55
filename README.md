@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-[![ThingsBoard](https://img.shields.io/badge/ThingsBoard-IoT%20Platform-blue?style=for-the-badge&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Facte.ltd%2Fvn%2Fblog%2Fthingsboard-javascript-sdk&psig=AOvVaw3qjsCq1WMAX4Mo-6nOzWkh&ust=1739956099426000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOD8gdzvzIsDFQAAAAAdAAAAABAQ&logoColor=white)](https://thingsboard.io)
+[![ThingsBoard](https://img.shields.io/badge/ThingsBoard-IoT%20Platform-blue?style=for-the-badge&logo=[https://www.google.com/url?sa=i&url=https%3A%2F%2Facte.ltd%2Fvn%2Fblog%2Fthingsboard-javascript-sdk&psig=AOvVaw3qjsCq1WMAX4Mo-6nOzWkh&ust=1739956099426000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOD8gdzvzIsDFQAAAAAdAAAAABAQ](https://acte.ltd/_ipx/f_webp,w_800,q_80/https://cms.acte.ltd/storage/app/uploads/public/626/f7d/3e4/626f7d3e40b37580942180.png)&logoColor=white)](https://thingsboard.io)
 
 
 
