@@ -16,6 +16,7 @@
 [![ThingsBoard](https://img.shields.io/badge/ThingsBoard-IoT%20Platform-blue?style=for-the-badge&logo=https://acte.ltd/_ipx/f_webp,w_800,q_80/https://cms.acte.ltd/storage/app/uploads/public/626/f7d/3e4/626f7d3e40b37580942180.png&logoColor=white)](https://thingsboard.io)
 
 
+
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/894443390031249438) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@hiepnguyenhoang8471) 
