@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-[![ThingsBoard](https://img.shields.io/badge/ThingsBoard?style=for-the-badge&logo=https://imgur.com/a/rOR0ArY&logoColor=white)](https://thingsboard.io)
+[![ThingsBoard](https://img.shields.io/badge?style=for-the-badge&logo=https://imgur.com/a/rOR0ArY&logoColor=white)](https://thingsboard.io)
 
 
 # 🌐 Socials
